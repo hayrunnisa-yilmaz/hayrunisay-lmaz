@@ -16,3 +16,5 @@ print(f"Meslek   : {meslek}")
 
 print(f"5 yil sonraki yasiniz: {bes_yil_sonra_yas}")
 print(f"Ad ve soyad toplam harf sayisi: {harf_sayisi}")
+
+
