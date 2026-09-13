@@ -51,3 +51,6 @@ if not hatalar:
 else:           
     print("Geçerli Değil")
     print("Eksik kurallar:", hatalar)
+
+
+
