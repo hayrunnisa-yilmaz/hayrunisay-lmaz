@@ -1,6 +1,3 @@
-#ad-soyad: Hayrunnisa Yılmaz
-#öğrenci numarası: 300125002
-
 urunler = []
 
 for i in range(3):
