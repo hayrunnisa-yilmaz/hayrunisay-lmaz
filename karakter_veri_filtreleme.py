@@ -25,3 +25,5 @@ print("\nKarakter Güç ve Sınıf Kontrolü:")
 
 for k in karakterler:
     print(k["isim"], "Okçu mu?:", okcu_mu(k), "| Güçlü mü?:", guclu_mu(k))
+
+
