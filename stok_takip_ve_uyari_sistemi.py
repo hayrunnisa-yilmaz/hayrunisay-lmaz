@@ -28,3 +28,6 @@ for urun in urunler:
     toplam_deger += urun["fiyat"] * urun["stok"]
 
 print(f"Toplam değer: {toplam_deger}")
+
+
+
