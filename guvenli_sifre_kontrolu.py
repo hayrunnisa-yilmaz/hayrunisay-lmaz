@@ -1,6 +1,3 @@
-#ad-soyad: Hayrunnisa Yılmaz
-#öğrenci numarası: 300125002
-
 def kural_uzunluk(sifre):
     """En az 8 karakter kontrolü"""
     return len(sifre) >= 8
