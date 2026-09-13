@@ -23,3 +23,5 @@ Bu depoda, Python programlama dilini öğrenme ve pratik yapma sürecimde geliş
 ### Kullanılan Teknolojiler
 * **Dil:** Python 3.x
 * **Kavramlar:** Fonksiyonlar, Döngüler, Veri Yapıları (List, Dict), Lambda Expressions, Algoritma Mantığı
+
+
