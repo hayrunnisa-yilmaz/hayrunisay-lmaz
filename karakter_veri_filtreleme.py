@@ -1,6 +1,3 @@
-#ad-soyad: Hayrunnisa Yılmaz
-#öğrenci numarası: 300125002
-
 karakterler = [
     {"isim": "Aragorn", "sinif": "savasci", "seviye": 15, "hp": 220, "altin": 500},
     {"isim": "Gandalf", "sinif": "buyucu", "seviye": 20, "hp": 140, "altin": 300},
